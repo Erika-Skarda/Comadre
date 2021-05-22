@@ -1,7 +1,7 @@
 # Comadre
 
 <div align="center">
-    <img src="https://img.shields.io/static/v1?label=REACT NATIVE&message=library&color=blue&style=for-the-badge&logo=REACT NATIVE"/>
+    <img src="https://img.shields.io/static/v1?label=REACTNATIVE&message=library&color=blue&style=for-the-badge&logo=REACTNATIVE"/>
     <img src="https://img.shields.io/static/v1?label=Javascript&message=library&color=yellow&style=for-the-badge&logo=JAVASCRIPT" />
     <img src="https://img.shields.io/static/v1?label=HOOKS&message=library&color=yellow&style=for-the-badge&logo=HOOKS" />
 </div>
@@ -16,10 +16,6 @@ No terminal, clone o projeto:
 
 ```
 git clone https://github.com/Erika-Skarda/Comadre
-```
-Acesse a pasta Api:
-```
-cd api
 ```
 Entre no projeto e instale as dependências através do comando:
 ```
