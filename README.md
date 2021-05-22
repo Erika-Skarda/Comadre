@@ -1,7 +1,7 @@
 # Comadre
 
 <div align="center">
-    <img src="https://img.shields.io/static/v1?label=REACTNATIVE&message=library&color=blue&style=for-the-badge&logo=REACTNATIVE"/>
+    <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/static/v1?label=Javascript&message=library&color=yellow&style=for-the-badge&logo=JAVASCRIPT" />
     <img src="https://img.shields.io/static/v1?label=HOOKS&message=library&color=yellow&style=for-the-badge&logo=HOOKS" />
 </div>
