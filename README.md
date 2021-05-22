@@ -1,14 +1,9 @@
 # Comadre
 
 <div align="center">
-    <img alt="Trending Games" title="move.it" src="https://github.com/Erika-Skarda/rawg/blob/main/react/src/Assets/logo.png" />
-</div>
-</br>
-</br>
-<div align="center">
     <img src="https://img.shields.io/static/v1?label=REACT NATIVE&message=library&color=blue&style=for-the-badge&logo=REACT NATIVE"/>
     <img src="https://img.shields.io/static/v1?label=Javascript&message=library&color=yellow&style=for-the-badge&logo=JAVASCRIPT" />
-    <img src="https://img.shields.io/static/v1?label=HOKSt&message=library&color=yellow&style=for-the-badge&logo=HOOKS" />
+    <img src="https://img.shields.io/static/v1?label=HOOKS&message=library&color=yellow&style=for-the-badge&logo=HOOKS" />
 </div>
 </br>
 
