@@ -2,8 +2,7 @@
 
 <div align="center">
     <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img src="https://img.shields.io/static/v1?label=Javascript&message=library&color=yellow&style=for-the-badge&logo=JAVASCRIPT" />
-    <img src="https://img.shields.io/static/v1?label=HOOKS&message=library&color=yellow&style=for-the-badge&logo=HOOKS" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
 </br>
 
