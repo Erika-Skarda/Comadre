@@ -21,6 +21,7 @@ export default ({ route, navigation }) => {
         <Text style={style.text}>Produto</Text>
         <TextInput
           style={style.input}
+          underlineColorAndroid="transparent"
           onChangeText={name => setProduct({...newProduct, name})}
           placeholder="Informe o nome do produto"
           value={newProduct.name}
@@ -28,20 +29,23 @@ export default ({ route, navigation }) => {
         <Text style={style.text}>Imagem</Text>
         <TextInput
           style={style.input}
-          onChangeText={avatar_url => setProduct({...newProduct, avatar_url})}
+          underlineColorAndroid="transparent"
+          onChangeText={img=> setProduct({...newProduct, img})}
           placeholder="Informe a imagem do produto"
           value={newProduct.avatar_url}
         />
         <Text style={style.text}>Quantidade</Text>
         <TextInput
           style={style.input}
-          onChangeText={quantity => setProduct({...newProduct, quantity})}
+          underlineColorAndroid="transparent"
+          onChangeText={amount => setProduct({...newProduct, amount})}
           placeholder="Informe a quantidade do produto"
           value={newProduct.quantity}
         />
         <Text style={style.text}>valor Unitário</Text>
         <TextInput
           style={style.input}
+          underlineColorAndroid="transparent"
           onChangeText={unit_value => setProduct({...newProduct, unit_value})}
           placeholder="Informe a quantidade do produto"
           value={newProduct.unit_value}
