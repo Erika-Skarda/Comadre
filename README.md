@@ -8,6 +8,9 @@
 
 > Status do Projeto: Em desenvolvimento :heavy_check_mark: 
 
+## Desafio
+
+[Comadre](https://github.com/comadre-tech/desafios/blob/master/desafio-front-end.md) 
 
 ## Como rodar a aplicação :arrow_forward:
 
