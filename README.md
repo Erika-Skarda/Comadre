@@ -6,7 +6,7 @@
 </div>
 </br>
 
-> Status do Projeto: Em desenvolvimento :heavy_check_mark: 
+> Status do Projeto: Concluído :heavy_check_mark: 
 
 ## Desafio
 
